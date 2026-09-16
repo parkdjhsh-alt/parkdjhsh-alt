@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Park Junghoon
+# 👋 Hi, I'm Park Jeonghun
 
 ────────────────────────────
 
-👋 Park Junghoon
+👋 Park Jeonghun
 
 Infrastructure / System Engineer
 
