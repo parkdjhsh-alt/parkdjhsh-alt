@@ -1,82 +1,53 @@
 # 👋 Hi, I'm Park Junghoon
 
-### Infrastructure / System Engineer
+────────────────────────────
 
-Linux 기반 서버와 네트워크 인프라를 공부하고 있습니다.
+👋 Park Junghoon
 
-가상화 환경에서 서버와 네트워크를 직접 구축하고,
-문제가 발생했을 때 원인을 분석하고 해결하는 과정에 관심이 있습니다.
+Infrastructure / System Engineer
 
----
+Linux | Network | Docker | VMware
 
-## 🧑‍💻 About Me
+────────────────────────────
 
-- 🐧 Linux Server Administration
-- 🌐 Network Infrastructure
-- 🖥️ Virtualization with VMware
-- 🐳 Docker & Container Infrastructure
-- ☁️ Cloud Infrastructure Learning
-- 🔧 Troubleshooting & Monitoring
+🙋 About Me
 
----
+인프라 / 시스템 엔지니어를 목표로
+Linux 서버와 네트워크 인프라를 공부하고 있습니다.
 
-## 🛠 Tech Stack
+────────────────────────────
 
-### Infrastructure
+🛠 Tech Stack
 
-Linux · VMware · Docker · HAProxy · Nginx
+Linux  VMware  Docker
+Nginx  HAProxy  Redis
+MySQL  MariaDB
+Java   Spring Boot
 
-### Network
+────────────────────────────
 
-TCP/IP · VLAN · OSPF · NAT · ACL · DNS · DHCP
+🚀 Projects
 
-### Server
+♻️ Jigubium
+VMware 기반 사내 인프라 구축
 
-Apache · Nginx · BIND · MariaDB · MySQL · Redis
+🌎 Eco Map
+Spring Boot + Kakao Map
 
-### Development
+────────────────────────────
 
-Java · Spring Boot · JavaScript · React
+📚 Infrastructure Lab
 
----
+Linux Server
+Network
+Docker
+Monitoring
 
-## 🚀 Projects
+────────────────────────────
 
-### 🌱 Jigubium Infrastructure Project
+📫 Contact
 
-VMware 기반 사내 인프라 구축 프로젝트
+Email
+GitHub
 
-- Web / DB / DNS / DHCP / FTP / NFS / Mail Server 구축
-- VyOS 기반 네트워크 라우팅 및 NAT 구성
-- Docker 기반 Web Application 구성
-- HAProxy Round Robin Load Balancing
-- Redis Session Sharing
-- Nginx HTTPS Reverse Proxy
-- MySQL Database 구축 및 접근 제어
-
-### ♻️ Eco Map
-
-재활용품 수거 위치를 제공하는 지도 서비스
-
-- Spring Boot
-- MyBatis
-- MySQL
-- Kakao Maps API
-- 주소 → 좌표 변환
-- 위치 데이터 DB 관리
-
----
-
-## 📚 Currently Studying
-
-Linux Administration  
-Network Engineering  
-Docker  
-Cloud Infrastructure  
-CCNA / Linux Certification
-
----
-
-## 📫 Contact
-
-Email : parkdjhsh1@gmail.com
+────────────────────────────
